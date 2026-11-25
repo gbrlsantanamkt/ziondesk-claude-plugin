@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Ziondesk": {
+      "type": "http",
+      "url": "https://mcp.ziondesk.app/mcp"
+    }
+  }
+}

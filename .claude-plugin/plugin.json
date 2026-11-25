@@ -1,0 +1,23 @@
+{
+  "name": "ziondesk",
+  "displayName": "ZionDesk",
+  "version": "0.1.0",
+  "description": "Conecta o Claude ao seu computador pelo ZionDesk: arquivos, código, terminal, navegador, Premiere Pro e After Effects.",
+  "author": {
+    "name": "ZionDesk",
+    "url": "https://ziondesk.app"
+  },
+  "homepage": "https://ziondesk.app",
+  "keywords": [
+    "ziondesk",
+    "computador",
+    "premiere",
+    "after-effects",
+    "automação",
+    "mcp"
+  ],
+  "license": "MIT",
+  "icon": "./icon.png",
+  "privacyPolicyUrl": "https://cloud.ziondesk.app/privacy",
+  "supportUrl": "https://cloud.ziondesk.app/support"
+}
